@@ -89,7 +89,7 @@ Enable persistent caching with the `cache-loader`. Clear cache directory on `"po
 
 ### Custom plugins/loaders
 
-Profile them to not intruduce a performance problem here.
+Profile them to not introduce a performance problem here.
 
 ---
 
